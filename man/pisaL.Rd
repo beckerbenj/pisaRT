@@ -3,20 +3,24 @@
 \docType{data}
 \name{pisaL}
 \alias{pisaL}
-\title{PISA example data with Responses and Response Times}
+\title{PISA Example Responses and Response Times Data (long format)}
 \format{
-A data frame with xx rows and xx variables
+A data.frame with 5500 rows and 4 variables:
+\describe{
+  \item{ID}{Person ID variable}
+  \item{item}{Item number}
+  \item{y}{Scored responses}
+  \item{RT}{Response time in seconds}
+}
+}
+\source{
+\url{https://www.oecd.org/pisa/data/2015database/}
 }
 \usage{
-data(pisaL)
+pisaL
 }
 \description{
-A data set from the Canadian subsample of the PISA 2015 assessment. Containts respones and response times of a single math booklet.
-}
-\details{
-\itemize{
-  \item responses
-  \item response times
-}
+A small subdata set from the Canadian sample of the PISA 2015 assessment. Contains respones and response times of a single math booklet.
+This data set is in the long format, with each row containing the scored response and response time of a person on a single item.
 }
 \keyword{datasets}

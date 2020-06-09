@@ -11,7 +11,7 @@ pisaRT contains a small example data set from the PISA 2015 study with scored re
 ## Installation
 
 ```R
-# Install pisaRT from CRAN
+# Install pisaRT from CRAN (currently not yet possible)
 install.packages("pisaRT")
 
 # Install pisaRT from GitHub via
@@ -24,6 +24,9 @@ devtools::install_github("beckerbenj/pisaRT")
 # load package
 library(pisaRT)
 
-# data strcuture
+# data strcuture of wide format data
 str(pisaW)
+
+# data strcuture of long format data
+str(pisaL)
 ```
