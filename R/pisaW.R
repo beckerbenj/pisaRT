@@ -1,9 +1,9 @@
 #' PISA Example Responses and Response Times Data (wide format)
 #'
-#' A small subdata set from the Canadian sample of the PISA 2015 assessment. Contains respones and response times of a single math booklet.
+#' A small example data set from the Canadian sample of the PISA 2015 assessment. Contains responses and response times of a single math booklet.
 #' This data set is in the wide format, with each row containing the scored responses and response times of a person on all booklet items.
 #'
-#' @format A data.frame with 5500 rows and 4 variables:
+#' @format A data.frame with 500 rows and 23 variables:
 #' \describe{
 #'   \item{ID}{Person ID variable}
 #'   \item{y_x}{Scored responses on item x}
