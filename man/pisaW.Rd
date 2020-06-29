@@ -20,6 +20,7 @@ pisaW
 }
 \description{
 A small example data set from the Canadian sample of the PISA 2015 assessment. Contains responses and response times of a single math booklet.
-This data set is in the wide format, with each row containing the scored responses and response times of a person on all booklet items.
+This data set is in the wide format, with each row containing the scored responses and response times of a person on all booklet items. For
+further explanations see \code{\link{pisaRT}}.
 }
 \keyword{datasets}

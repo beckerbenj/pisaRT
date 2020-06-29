@@ -6,12 +6,12 @@
 
 ## Overview
 
-pisaRT contains a small example data set from the PISA 2015 study with scored responses and response times. 
+pisaRT contains a small example data set from the PISA 2015 study with scored responses and response times (<https://www.oecd.org/pisa/data/2015database/>). 
 
 ## Installation
 
 ```R
-# Install pisaRT from CRAN (currently not yet possible)
+# Install pisaRT from CRAN (not possible, yet)
 install.packages("pisaRT")
 
 # Install pisaRT from GitHub via

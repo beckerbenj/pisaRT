@@ -21,6 +21,7 @@ pisaL
 }
 \description{
 A small example data set from the Canadian sample of the PISA 2015 assessment. Contains responses and response times of a single math booklet.
-This data set is in the long format, with each row containing the scored response and response time of a person on a single item.
+This data set is in the long format, with each row containing the scored response and response time of a person on a single item. For
+further explanations see \code{\link{pisaRT}}.
 }
 \keyword{datasets}
