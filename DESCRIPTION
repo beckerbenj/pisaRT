@@ -3,7 +3,7 @@ Type: Package
 Title: Small Example Response and Response Time Data from PISA 2015
 Version: 1.0.0
 Authors@R: c(
-    person("Benjamin", "Becker", email = "b.becker@iqb.hu.berlin.de", role = c("aut", "cre")),
+    person("Benjamin", "Becker", email = "b.becker@iqb.hu-berlin.de", role = c("aut", "cre")),
     person("Esther", "Ulitzsch", email = "ulitzsch@ipn.uni-kiel.de", role = c("ctb")),
     person("Christoph", "Koenig", email = "koenig@psych.uni-frankfurt.de", role = c("ctb")))
 Description: Scored responses and responses times from the Canadian subsample of the PISA 2015 assessment, as published by OECD (2016). 
