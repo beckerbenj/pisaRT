@@ -12,7 +12,7 @@ randomly selected for this subsample. The data set is available in the long (\co
 }
 \section{License and Origin}{
 
-The original data can be retrieved from \url{https://www.oecd.org/pisa/data/2015database/}. The data is available under
+The original data can be retrieved as the "Cognitive Item Data File" (OECD, 2016) from \url{https://www.oecd.org/pisa/data/2015database/}. The data is available under
 the CC-BY-SA license.
 }
 

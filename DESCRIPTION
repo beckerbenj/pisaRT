@@ -6,7 +6,7 @@ Authors@R: c(
     person("Benjamin", "Becker", email = "b.becker@iqb.hu-berlin.de", role = c("aut", "cre")),
     person("Esther", "Ulitzsch", email = "ulitzsch@ipn.uni-kiel.de", role = c("ctb")),
     person("Christoph", "Koenig", email = "koenig@psych.uni-frankfurt.de", role = c("ctb")))
-Description: Scored responses and responses times from the Canadian subsample of the PISA 2015 assessment, as published by OECD (2016). 
+Description: Scored responses and responses times from the Canadian subsample of the PISA 2015 assessment, accessible as the "Cognitive Item Data File" by OECD (2016) <https://www.oecd.org/pisa/data/2015database/>. 
 Depends: R (>= 2.10)
 License: CC BY 4.0
 Encoding: UTF-8
