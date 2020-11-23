@@ -1,6 +1,6 @@
-#' pisaRT: Example PISA 2015 data set with responses and response times
+#' pisaRT: Example PISA 2018 data set with responses and response times
 #'
-#' The \code{pisaRT} package contains a small example data set of the Canadian PISA 2015 assessment. The data set consists of
+#' The \code{pisaRT} package contains a small example data set of the Canadian PISA 2018 assessment. The data set consists of
 #' scored responses, raw response times and log transformed response times on item level of the first booklet in the math
 #' domain (\code{M01}). Polytomous items haven been
 #' dichotomized by scoring not fully correct responses as incorrect. One item has been removed due to problematic fit and 500 persons have been
@@ -8,7 +8,7 @@
 #' Log transformed response times have been added to the data as these are frequently used in psychometric response time models.
 #'
 #' @section License and Origin:
-#' The original data can be retrieved as the "Cognitive Item Data File" (OECD, 2016) from \url{https://www.oecd.org/pisa/data/2015database/}. The data is available under
+#' The original data can be retrieved as the "Cognitive Item Data File" (OECD, 2019) from \url{https://www.oecd.org/pisa/data/2018database/}. The data is available under
 #' the CC-BY-SA license.
 #'
 #' @section Purpose:

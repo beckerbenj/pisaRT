@@ -5,7 +5,7 @@
 \alias{pisaW}
 \title{PISA Example Responses and Response Times Data (wide format)}
 \format{
-A data.frame with 500 rows and 23 variables:
+A data.frame with 500 rows and 37 variables:
 \describe{
   \item{ID}{Person ID variable}
   \item{y_x}{Scored responses on item x}

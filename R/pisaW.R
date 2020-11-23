@@ -5,7 +5,7 @@
 #' This data set is in the wide format, with each row containing the scored responses and response times of a person on all booklet items. For
 #' further explanations see \code{\link{pisaRT}}.
 #'
-#' @format A data.frame with 500 rows and 23 variables:
+#' @format A data.frame with 500 rows and 37 variables:
 #' \describe{
 #'   \item{ID}{Person ID variable}
 #'   \item{y_x}{Scored responses on item x}

@@ -5,7 +5,7 @@
 \alias{pisaL}
 \title{PISA Example Responses and Response Times Data (long format)}
 \format{
-A data.frame with 5500 rows and 4 variables:
+A data.frame with 6000 rows and 5 variables:
 \describe{
   \item{ID}{Person ID variable}
   \item{item}{Item number}
