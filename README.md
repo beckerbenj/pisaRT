@@ -8,7 +8,7 @@
 
 ## Overview
 
-pisaRT contains a small example data set from the PISA 2015 study with scored responses, response times and log transformed response times on item level (<https://www.oecd.org/pisa/data/2018database/>). 
+pisaRT contains a small example data set from the PISA 2018 study with scored responses, response times and log transformed response times on item level (<https://www.oecd.org/pisa/data/2018database/>). 
 
 ## Installation
 

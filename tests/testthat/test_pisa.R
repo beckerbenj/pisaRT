@@ -24,7 +24,7 @@ test_that("Only 0 or 1 in responses", {
 
 test_that("Log response times in reasonable range", {
   expect_true(all(pisaL$log_RT > -1))
-  expect_true(all(pisaL$log_RT < 7))
+  expect_true(all(pisaL$log_RT < 8))
   expect_true(all(unlist(pisaW[, paste0("log_RT_", 1:12)]) > -1))
-  expect_true(all(unlist(pisaW[, paste0("log_RT_", 1:12)]) < 7))
+  expect_true(all(unlist(pisaW[, paste0("log_RT_", 1:12)]) < 8))
 })

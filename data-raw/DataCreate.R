@@ -1,5 +1,6 @@
 
 library(data.table)
+library(haven)
 load("data-raw/PISACan2018M1.RData")
 
 # dichotomize partial credit
@@ -28,6 +29,7 @@ dat_wide <- zap_formats(dat_wide)
 dat_wide <- zap_widths(dat_wide)
 
 # select 500 random test takers
+set.seed(255)
 dat_wide2 <- dat_wide[sample(1:nrow(dat_wide), size = 500), ]
 dat_wide2$ID <- 1:500
 
