@@ -1,6 +1,6 @@
 Package: pisaRT
 Type: Package
-Title: Small Example Response and Response Time Data from PISA 2015
+Title: Small Example Response and Response Time Data from PISA 2018
 Version: 2.0.0
 Authors@R: c(
     person("Benjamin", "Becker", email = "b.becker@iqb.hu-berlin.de", role = c("aut", "cre")),
