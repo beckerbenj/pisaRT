@@ -23,9 +23,9 @@ install.packages("pisaRT")
 # load package
 library(pisaRT)
 
-# data strcuture of wide format data
+# data structure of wide format data
 str(pisaW)
 
-# data strcuture of long format data
+# data structure of long format data
 str(pisaL)
 ```
