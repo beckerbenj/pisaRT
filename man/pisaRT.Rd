@@ -14,7 +14,8 @@ Log transformed response times have been added to the data as these are frequent
 }
 \section{License and Origin}{
 
-The original data can be retrieved as the "Cognitive Item Data File" (OECD, 2019) from \url{https://www.oecd.org/pisa/data/2018database/}. The data is available under
+The original data can be retrieved as the "Cognitive items total time/visits data file" by OECD (2020) from
+\url{https://www.oecd.org/pisa/data/2018database/}. The data is available under
 the CC-BY-SA license.
 }
 

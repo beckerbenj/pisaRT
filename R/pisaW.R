@@ -1,6 +1,6 @@
 #' PISA Example Responses and Response Times Data (wide format)
 #'
-#' A small example data set from the Canadian sample of the PISA 2015 assessment. Contains responses, response times
+#' A small example data set from the Canadian sample of the PISA 2018 assessment. Contains responses, response times
 #' and log transformed response times of a single math booklet.
 #' This data set is in the wide format, with each row containing the scored responses and response times of a person on all booklet items. For
 #' further explanations see \code{\link{pisaRT}}.
@@ -15,5 +15,5 @@
 #'
 #' @docType data
 #' @keywords datasets
-#' @source \url{https://www.oecd.org/pisa/data/2015database/}
+#' @source \url{https://www.oecd.org/pisa/data/2018database/}
 "pisaW"
