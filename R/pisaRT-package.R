@@ -15,12 +15,10 @@
 #' @section Purpose:
 #' There exists a wide variety of models for response times of cognitive data. However, no example data set is readily
 #' available in \code{R} packages. \code{pisaRT} provides a small example data set on which exemplary analysis can be run.
-#'
-#' @docType package
-#' @name pisaRT
 
-# The following block is used by usethis to automatically manage
-# roxygen namespace tags. Modify with care!
+#' @keywords internal
+"_PACKAGE"
+
 ## usethis namespace: start
 ## usethis namespace: end
 NULL
