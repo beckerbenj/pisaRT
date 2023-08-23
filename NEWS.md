@@ -1,3 +1,7 @@
+# pisaRT 2.0.2
+
+* Minor documentation fix
+
 # pisaRT 2.0.1
 
 * Description of source file corrected in documentation
