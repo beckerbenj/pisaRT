@@ -7,6 +7,8 @@ Authors@R: c(
     person("Esther", "Ulitzsch", email = "ulitzsch@ipn.uni-kiel.de", role = c("ctb")),
     person("Christoph", "Koenig", email = "koenig@psych.uni-frankfurt.de", role = c("ctb")))
 Description: Scored responses and responses times from the Canadian subsample of the PISA 2018 assessment, accessible as the "Cognitive items total time/visits data file" by OECD (2020) <https://www.oecd.org/pisa/data/2018database/>. 
+URL: https://github.com/beckerbenj/pisaRT
+BugReports: https://github.com/beckerbenj/pisaRT/issues
 Depends: R (>= 2.10)
 License: CC BY 4.0
 Encoding: UTF-8
